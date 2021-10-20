@@ -1,0 +1,2 @@
+# OpenCloudOS-Packages
+OpenCloudOS发行版包含的除内核之外的软件包
